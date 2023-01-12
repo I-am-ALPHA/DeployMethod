@@ -42,5 +42,3 @@ This repository contains instructions for deploying the Queen Amdi userbot in gr
   pm2 restart QueenAmdiMD
   ```
 
-
-
