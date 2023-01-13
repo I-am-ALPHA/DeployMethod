@@ -1,9 +1,9 @@
-# Platform : VPS/VM (GroomIDE) | Free Deployment
-This repository contains instructions for deploying the Queen Amdi userbot in groomIDE.
+# Platform : VPS/VM (GoormIDE) | Free Deployment
+This repository contains instructions for deploying the Queen Amdi userbot in goormIDE.
 
 - First of all you have to edit <b>.env-example</b> file like this.<br><br>
 <img src="https://i.ibb.co/16xKy1m/image.png"><br><br>
-- Then create an account on <a href="https://ide.goorm.io/">GroomIDE.</a> Then follow the steps; <br><br>
+- Then create an account on <a href="https://ide.goorm.io/">GoormIDE.</a> Then follow the steps; <br><br>
 <img src="https://i.ibb.co/1rLZCBt/image.png"><br>
 <img src="https://i.ibb.co/jg8z5xS/image.png"><br><br>
 <b>Don't forget to check the availability of your repo</b><br><br>
